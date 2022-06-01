@@ -1,0 +1,13 @@
+body {
+  background: black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+article {
+  color: aquamarine;
+}
+p {
+  font-size: 5rem;
+}
